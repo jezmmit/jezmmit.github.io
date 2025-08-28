@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c4751a8b.css",
-    "main.js": "/static/js/main.a3af9bd4.js",
+    "main.js": "/static/js/main.e7faada5.js",
     "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
     "static/media/FSL.mp4": "/static/media/FSL.7db9bc431f5c8ec59bc3.mp4",
     "static/media/Smart.mp4": "/static/media/Smart.aa96b94e09c4b958ea33.mp4",
     "static/media/GCS.png": "/static/media/GCS.7c747b1508f35f083506.png",
     "static/media/currentme.png": "/static/media/currentme.a99d6974bcacb511e0b7.png",
     "static/media/MSSansSerif.ttf": "/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
-    "static/media/AMIT RESUME.pdf": "/static/media/AMIT RESUME.16f1803c5b34a862d8c7.pdf",
+    "static/media/AMIT RESUME.pdf": "/static/media/AMIT RESUME.e420cb77484b5c5f01f8.pdf",
     "static/media/ee.jpg": "/static/media/ee.7656e3a317181c8a39b1.jpg",
     "static/media/Terminal.ttf": "/static/media/Terminal.6a1b7290048681921b2c.ttf",
     "static/media/neverGiveUp.jpg": "/static/media/neverGiveUp.c9ee4e48677de77065a9.jpg",
@@ -21,11 +21,11 @@
     "static/media/Millennium-Bold.ttf": "/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
     "index.html": "/index.html",
     "main.c4751a8b.css.map": "/static/css/main.c4751a8b.css.map",
-    "main.a3af9bd4.js.map": "/static/js/main.a3af9bd4.js.map",
+    "main.e7faada5.js.map": "/static/js/main.e7faada5.js.map",
     "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4751a8b.css",
-    "static/js/main.a3af9bd4.js"
+    "static/js/main.e7faada5.js"
   ]
 }
